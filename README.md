@@ -19,8 +19,9 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliabeW&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliabeW&theme=github-dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&theme=github_dark&hide_border=true&langs_count=5)
 
 </div>
 ---
