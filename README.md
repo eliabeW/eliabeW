@@ -1,11 +1,11 @@
 # Olá, eu sou o Eliabe Wesley 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliabe-wesley/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 
 ---
 
-## 🚀 Tecnologias que eu estudo
+## Tecnologias que eu estudo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## Minhas estatísticas no GitHub
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-> ℹ️ O gráfico **"Top Languages"** acima mostra automaticamente a porcentagem real de cada linguagem nos seus repositórios públicos do GitHub.
+> O gráfico **"Top Languages"** acima mostra automaticamente a porcentagem real de cada linguagem nos seus repositórios públicos do GitHub.
 
 ---
 
