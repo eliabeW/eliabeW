@@ -15,14 +15,11 @@
 
 ---
 
-## Minhas estatísticas no GitHub
+## 📊 Minhas estatísticas no GitHub
 
-<div align="center">
+![Eliabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliabeW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliabeW&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&theme=github_dark&hide_border=true&langs_count=5)
 
 > O gráfico **"Top Languages"** acima mostra automaticamente a porcentagem real de cada linguagem nos seus repositórios públicos do GitHub.
 
