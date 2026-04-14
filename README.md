@@ -17,8 +17,12 @@
 
 ## 📊 Minhas estatísticas no GitHub
 
-![Eliabe's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliabeW&theme=github_dark)
+<div align="center">
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eliabeW&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&langs_count=5&theme=github_dark&hide_border=true"/>
+
+</div>
 ---
 
 ## 💡 Sobre mim
