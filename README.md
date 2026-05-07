@@ -15,10 +15,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliabeW&theme=dark)
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliabeW&theme=dark)
 
 ![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliabeW&theme=dark)
 
@@ -27,9 +27,3 @@
 ## 💡 Sobre mim
 
 > *"Explorar as fronteiras da tecnologia é como abrir as páginas de um livro infinito — sempre há algo novo para descobrir."*
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliabeW.eliabeW" alt="Visitantes" />
-</p>
