@@ -13,7 +13,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=eliabeW&layout=compact&langs_count=6&theme=dark" />
+</div>
+
 ![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliabeW&theme=dark)
 
 ---
