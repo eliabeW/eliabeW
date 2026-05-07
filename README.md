@@ -17,10 +17,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliabeW&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliabeW&layout=compact&langs_count=6&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliabeW&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliabeW&theme=dark)
+![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliabeW&theme=dark)
 
 ---
 
@@ -31,5 +31,5 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/eliabeW/count.svg" alt="Visitantes" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eliabeW.eliabeW" alt="Visitantes" />
 </p>
