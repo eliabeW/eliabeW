@@ -18,7 +18,7 @@
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliabeW&theme=dark)
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eliabeW&theme=dark)
+![Linguagens](https://skillicons.dev/icons?i=html,css,js,react,python&theme=dark)
 
 ![Contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliabeW&theme=dark)
 
