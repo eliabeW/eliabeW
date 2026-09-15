@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Eliabe Wesley — desenvolvimento web, Python e APIs</title>
+  <desc id="desc">Banner em tons de azul e violeta com o nome Eliabe Wesley e elementos geométricos inspirados em código.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1020"/>
+      <stop offset=".55" stop-color="#121A36"/>
+      <stop offset="1" stop-color="#0B1126"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38BDF8"/>
+      <stop offset=".55" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6366F1" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".05"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="360" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1010" cy="146" r="280" fill="url(#glow)"/>
+    <circle cx="1083" cy="-42" r="160" fill="none" stroke="#818CF8" stroke-opacity=".13" stroke-width="2"/>
+    <circle cx="1083" cy="-42" r="232" fill="none" stroke="#818CF8" stroke-opacity=".09" stroke-width="2"/>
+    <path d="M0 359H1200" stroke="url(#accent)" stroke-width="5"/>
+    <rect x="56" y="47" width="181" height="33" rx="16.5" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <circle cx="74" cy="63.5" r="5" fill="#34D399"/>
+    <text x="87" y="69" fill="#CDD7F2" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" letter-spacing="2">GITHUB PROFILE</text>
+    <text x="56" y="154" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="61" letter-spacing="-2">Eliabe Wesley</text>
+    <rect x="56" y="173" width="325" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="56" y="224" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="24">Desenvolvimento web  •  Python  •  APIs</text>
+    <text x="56" y="283" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="17">Aprendendo, construindo e compartilhando.</text>
+    <g transform="translate(807 91)">
+      <rect width="325" height="202" rx="22" fill="#0A1023" fill-opacity=".68" stroke="#8396C9" stroke-opacity=".25"/>
+      <circle cx="28" cy="25" r="5" fill="#FB7185"/>
+      <circle cx="47" cy="25" r="5" fill="#FBBF24"/>
+      <circle cx="66" cy="25" r="5" fill="#34D399"/>
+      <path d="M0 46H325" stroke="#8396C9" stroke-opacity=".18"/>
+      <text x="27" y="87" fill="#60A5FA" font-family="Consolas, monospace" font-size="19">const</text>
+      <text x="94" y="87" fill="#E5E7EB" font-family="Consolas, monospace" font-size="19">curiosidade =</text>
+      <text x="27" y="124" fill="#C084FC" font-family="Consolas, monospace" font-size="19">{</text>
+      <text x="50" y="124" fill="#F8FAFC" font-family="Consolas, monospace" font-size="19">código, ideias, futuro</text>
+      <text x="27" y="161" fill="#C084FC" font-family="Consolas, monospace" font-size="19">}</text>
+      <rect x="27" y="178" width="127" height="3" rx="1.5" fill="url(#accent)"/>
+    </g>
+  </g>
+</svg>
